@@ -1,16 +1,26 @@
-# login_register
+# Flutter Login and Register Activity
 
-A new Flutter project.
+**Name:** Sanao, Jeriel Lian D.  
+**Course:** CCE106  
+**Date:** 29/10/2025  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📝 Activity Description
+This activity is based on the *Activity LoginRegister* recording.  
+I followed all the steps shown in the video to create a simple Flutter app with **Login** and **Register** screens.  
+The design and navigation were replicated exactly as demonstrated in the recording.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ⚙️ Features Implemented
+- Login screen with text fields and buttons  
+- Register screen with input fields and submit button  
+- Navigation between Login and Register pages  
+- AppBar displaying my **LASTNAME** for identification  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 💡 Reflection
+Through this activity, I learned how to design multiple screens and navigate between them in Flutter.  
+It helped me understand widget structure, routing, and the basics of form layout.
